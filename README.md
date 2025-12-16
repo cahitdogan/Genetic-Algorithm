@@ -50,7 +50,7 @@ Proje Python dili ile geliştirilmiştir ve aşağıdaki kütüphaneleri kullan�
 
 ## Çalıştırma
 
-https://colab.research.google.com/drive/1qQMuqdj26BB_PzuHLwE7L5QWEi5KNh9B?usp=sharing adresinde giderek colab projesinin kod bloklarını sırasıyla çalıştırın. Son kod bloğu çalıştırıldığında sonuçlar yazdırılır.
+https://colab.research.google.com/drive/1qQMuqdj26BB_PzuHLwE7L5QWEi5KNh9B?usp=sharing adresine giderek Colab projesinin kod bloklarını sırasıyla çalıştırın. Son kod bloğu çalıştırıldığında sonuçlar yazdırılır.
 
 Çalıştırma sonucunda:
 1.  Her nesildeki en iyi fitness değeri ekrana yazdırılır.
