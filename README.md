@@ -50,13 +50,9 @@ Proje Python dili ile geliştirilmiştir ve aşağıdaki kütüphaneleri kullan�
 
 ## Çalıştırma
 
-Terminal veya komut satırında proje dizinine giderek aşağıdaki komutu çalıştırın:
-
-```bash
-python3 genetic_algorithm.py
-```
+https://colab.research.google.com/drive/1qQMuqdj26BB_PzuHLwE7L5QWEi5KNh9B?usp=sharing adresinde giderek colab projesinin kod bloklarını sırasıyla çalıştırın. Son kod bloğu çalıştırıldığında sonuçlar yazdırılır.
 
 Çalıştırma sonucunda:
 1.  Her nesildeki en iyi fitness değeri ekrana yazdırılır.
 2.  Bulunan en iyi çözüm (Matematik ve Fen süreleri) raporlanır.
-3.  Başarı skorunun gelişimini gösteren `fitness_degisimi.png` dosyası oluşturulur.
+3.  Başarı skorunun gelişimini gösteren `fitness_degisimi.png` grafiği oluşturulur.
